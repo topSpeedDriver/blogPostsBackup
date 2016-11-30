@@ -1,17 +1,27 @@
 ---
-title: 这才真的是我第一篇博客
-date: 2014-9-03 02:23:57
+title: 我的第一个博客文章
+date: 2016-10-30 22:58:19
 tags:
- - web前端
  - js
- - Node
-categroy:
+ - html
+ - css
+category:
  - 召唤师峡谷
  - 蓝色方
  - 卡兹克
 ---
 
-# 这是我第一篇博客   我好开心
-## 开心的不得了
-### 哈哈哈
-> 我说怎么打不出来字   原来我弄错了
+
+Hello World
+
+Hello World
+
+<!-- more -->
+
+我我我我我我我我我
+
+Hello World
+
+Hello World
+
+Hello World
